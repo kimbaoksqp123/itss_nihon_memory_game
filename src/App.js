@@ -4,7 +4,7 @@ function App() {
     return ( <
         div className = "App" >
         <
-        h1 > Memory Game - ReactJS < /h1> <Cards / >
+        h1 > DragonBall Memory Game < /h1> <Cards / >
         <
         /div>
     );
