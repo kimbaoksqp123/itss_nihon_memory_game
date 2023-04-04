@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itss_nihon_memory_game/static/css/main.d49bc3f8.css",
+    "main.js": "/itss_nihon_memory_game/static/js/main.31fda79b.js",
+    "index.html": "/itss_nihon_memory_game/index.html",
+    "main.d49bc3f8.css.map": "/itss_nihon_memory_game/static/css/main.d49bc3f8.css.map",
+    "main.31fda79b.js.map": "/itss_nihon_memory_game/static/js/main.31fda79b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d49bc3f8.css",
+    "static/js/main.31fda79b.js"
+  ]
+}
